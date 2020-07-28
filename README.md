@@ -2,6 +2,8 @@ mono = m + ono
 
 [![mono0926's github stats](https://github-readme-stats.vercel.app/api?username=mono0926)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 お仕事の相談: https://gist.github.com/mono0926/5e8d214b09eeec5bb85765d2aec03202
