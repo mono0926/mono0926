@@ -2,7 +2,7 @@ mono = m + ono
 
 [![mono0926's github stats](https://github-readme-stats.vercel.app/api?username=mono0926)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mono0926&hide=javascript,html,c#,objectivec)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mono0926&hide=javascript,html,c#,objective-c)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
