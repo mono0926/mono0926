@@ -4,6 +4,8 @@ mono = m + ono
 
 [![mono0926's github stats](https://github-readme-stats.vercel.app/api?username=mono0926)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mono0926)](https://github.com/mono0926 "trophy")
+
 ---
 
 お仕事の相談: https://gist.github.com/mono0926/5e8d214b09eeec5bb85765d2aec03202
@@ -22,5 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mono0926)](https://github.com/mono0926 "trophy")
