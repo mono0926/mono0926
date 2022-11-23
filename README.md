@@ -4,8 +4,6 @@ mono = m + ono
 
 [![mono0926's github stats](https://github-readme-stats.vercel.app/api?username=mono0926)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mono0926)](https://github.com/mono0926 "trophy")
-
 ---
 
 お仕事のご相談: https://mono0926.notion.site/Flutter-Firebase-16225b07089345db93c220ec9215238f
